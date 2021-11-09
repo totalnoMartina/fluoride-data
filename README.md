@@ -1,3 +1,43 @@
+# Data on Fluoride 
+
+## Description 
+
+# User Stories (UX)
+
+## All Users
+* I want users to be aware of fluoridated water and the facts on fluoride
+* I want users to be able to browse and search the website without creating account(as guest)
+* I want users to be able to create account, login/logout, and comment their opinion on fluoride
+* I want users to be able to generate different charts of disease/health benefits of fluoride in water and by years
+* I want users to see data on fluoride by countries and effects
+* I want users to know first use of fluoride
+* I want users to be aware that fluoride is banned in some countries
+* I want users to be able to relate through comments and add profile photo
+* I want users to be able to delete account
+
+### As a first time user 
+* I want the users to see the general purpose of the website
+* I want the users to be able to see login or guest browsing as well as search the site
+
+## As a returning user
+* I want the returning user to be able to login quickly
+* I want the returning user to be able to see latest posts on fluoridated water by other users
+
+# Site Owner goals
+
+* The purpose of the webpage is to help user find all relevant information on fluoride from one place and with a few clicks
+* Through this webpage people can express their opinions on some governments encouraging/banning fluoridated water and connect people
+* I believe water is really important component in our lives as human beings and coming from Croatia that is declared with 'Blue Flag' for water purity, I believe we all should advocate for everyones water to be of high quality and free of chemicals that could be harmful for the rest of our functioning body
+* The goal of this webpage is to create more connection between people on common topic of water and raise awareness in order for everyone to be choosing good quality drinking water
+
+
+
+
+
+
+
+
+
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 Welcome Martina Grganic,
