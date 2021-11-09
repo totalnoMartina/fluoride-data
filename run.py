@@ -5,5 +5,16 @@
 def welcome_user():
     ask_usr = input('What is your name? \n')
     name = ask_usr
-    msg = print(f'Welcome to Exploration of Data on Fluoride ${name}')
+    msg = print(f'Welcome to Exploration of Data on Fluoride {name}')
     return msg
+
+
+
+
+def main():
+    """Function to run all functions """
+    while True:
+        welcome_user()
+        break
+
+main()
