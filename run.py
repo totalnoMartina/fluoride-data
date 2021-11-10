@@ -30,6 +30,9 @@ def generate_chart():
     pass
 
 
+class Chart:
+    """ Create in instance to generate chart for user """
+
 def main():
     """Function to run all functions """
     while True:
