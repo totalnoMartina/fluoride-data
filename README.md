@@ -6,18 +6,15 @@
 
 ## All Users
 * I want users to be aware of fluoridated water and the facts on fluoride
-* I want users to be able to browse and search the website without creating account(as guest)
-* I want users to be able to create account, login/logout, and comment their opinion on fluoride
+* I want users to be able to browse and search the website without creating account
 * I want users to be able to generate different charts of disease/health benefits of fluoride in water and by years
 * I want users to see data on fluoride by countries and effects
 * I want users to know first use of fluoride
 * I want users to be aware that fluoride is forbidden in some countries and see graph of which
-* I want users to be able to relate through comments and add profile photo
-* I want users to be able to delete account
+* I want users to be able to relate through comments and add profile photo - or maybe without photo
 
 ### As a first time user 
 * I want the users to see the general purpose of the website
-* I want the users to be able to see login or guest browsing as well as search the site
 
 ## As a returning user
 * I want the returning user to be able to login quickly(maybe as a scientist or sharing opinions)
@@ -32,6 +29,7 @@
 * The goal of this website is to be able to access data quickly and intuitively
 
 ## Wireframes
+ ...Or maybe I want to keep the python terminal?
 
 [First and second Page](wireframes/first-two-pages-wireframe.png)
 
