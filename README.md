@@ -11,7 +11,7 @@
 * I want users to be able to generate different charts of disease/health benefits of fluoride in water and by years
 * I want users to see data on fluoride by countries and effects
 * I want users to know first use of fluoride
-* I want users to be aware that fluoride is banned in some countries
+* I want users to be aware that fluoride is forbidden in some countries and see graph of which
 * I want users to be able to relate through comments and add profile photo
 * I want users to be able to delete account
 
@@ -20,15 +20,40 @@
 * I want the users to be able to see login or guest browsing as well as search the site
 
 ## As a returning user
-* I want the returning user to be able to login quickly
-* I want the returning user to be able to see latest posts on fluoridated water by other users
+* I want the returning user to be able to login quickly(maybe as a scientist or sharing opinions)
+* I want the returning user to be able to see latest posts/comments on fluoridated water by other users
 
 # Site Owner goals
 
 * The purpose of the webpage is to help user find all relevant information on fluoride from one place and with a few clicks
 * Through this webpage people can express their opinions on some governments encouraging/banning fluoridated water and connect people
-* I believe water is really important component in our lives as human beings and coming from Croatia that is declared with 'Blue Flag' for water purity, I believe we all should advocate for everyones water to be of high quality and free of chemicals that could be harmful for the rest of our functioning body
+* As water is really important component in our lives as human beings users can expand their knowledge or feed the curiosity towards healthy drinking water or other sorts
 * The goal of this webpage is to create more connection between people on common topic of water and raise awareness in order for everyone to be choosing good quality drinking water
+* The goal of this website is to be able to access data quickly and intuitively
+
+## Wireframes
+
+[First and second Page](wireframes/first-two-pages-wireframe.png)
+
+[Content data or Graphs page](wireframes/loaded-content-page-wireframe.png)
+
+# Technologies Used 
+
+## Languages
+
+## Database 
+
+## Libraries
+
+## Tools
+
+# Features
+
+## Site Navigation
+
+## Features Implemented
+
+## Future Features
 
 
 
